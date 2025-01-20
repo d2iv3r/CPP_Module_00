@@ -38,5 +38,6 @@ This is the first module of a C++ series, introducing the basics of C++ programm
 For example, if using GCC, run the following in your terminal:
 
 ```bash
+cd ex00
 make
 ./ex00
