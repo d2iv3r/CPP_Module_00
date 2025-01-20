@@ -1,4 +1,4 @@
-# C++ Module: Basics of C++ Programming
+# C++ Module 00:
 
 ## Overview
 
