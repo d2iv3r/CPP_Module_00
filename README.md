@@ -42,22 +42,4 @@ This module serves as an introduction to the foundational elements of C++ progra
 ## Subject:
 https://cdn.intra.42.fr/pdf/pdf/143922/en.subject.pdf
 
-
-## Requirements
-
-- A C++ compiler (e.g., GCC, Clang, or MSVC)
-- A text editor or Integrated Development Environment (IDE) (e.g., Visual Studio Code, CLion, or Eclipse)
-
-## How to Run
-
-1. Install a C++ compiler and text editor/IDE of your choice.
-2. Clone this repository or download the module files.
-3. Open the project folder in your IDE or text editor.
-4. Compile the program using the C++ compiler.
-
-For example, if using GCC, run the following in your terminal:
-
-```bash
-cd ex00
-make
-./ex00
+---
